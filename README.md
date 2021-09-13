@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShigeMiura
 - 👀 I’m interested in coding randomly
-- 🌱 I’m currently learning everything that intesrest me
-- 💞️ I’m looking to collaborate ..
-- 📫 How to reach me ...
+- 🌱 I’m currently learning everything that interest me
+- 💞️ I’m looking to collaborate with someone
+- 📫 How to reach me? idk either
 
 <!---
 ShigeMiura/ShigeMiura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
